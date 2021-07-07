@@ -14,11 +14,6 @@ header{
     width: 90%;
     height: 5%;
     margin: 10px auto;
-   
-    
-
-
-    
 }
 .nav-bar a{
     text-decoration: none;
@@ -26,16 +21,10 @@ header{
     font-size: 20px ;
     letter-spacing: 1px;
     margin: 0px 10px;
-    
 }
-
-  
-
 .nav-bar a:hover{
     text-decoration: underline;
 }
-
-
 .header-div{
     border: 2px solid blue;
     width: 90%;
@@ -46,7 +35,6 @@ header{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    
 }
 .header-div h1{
     color: rgb(207, 19, 107);
@@ -54,7 +42,6 @@ header{
     font-style: normal;
     text-decoration: none;
     margin-top:200px;
-    
 }
 .header-div h1:hover{
     text-shadow: blue;
